@@ -66,4 +66,5 @@
 	11. Updated the local branch with the remote changes
 		```bash
 		git pull --rebase origin master
+		```
 
