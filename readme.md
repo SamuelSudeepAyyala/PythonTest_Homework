@@ -57,10 +57,10 @@
 
 		git init
 		git remote add origin --SSHurl of repository--
-		git checkout -b FilesAdded
+		git checkout -b Homework2
 		git add <all the pendingfiles>
 		git commit -m "Comments"
-		git push origin FilesAdded
+		git push origin Homework2
 
 12. Created a git pull request on github and pulled all the latest changes to the repository.
 
